@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExportFormat.cs" />
     <Compile Include="Formatters\CsvFormatter.cs" />
     <Compile Include="Formatters\IFormatter.cs" />
     <Compile Include="Formatters\XmlFormatter.cs" />
